@@ -1,1 +1,4 @@
 # Sentiment-Analysis-ML-Project
+
+Sentiment Analysis with Twitter Data
+This project demonstrates the development of a sentiment analysis model using a Twitter dataset from Kaggle. The dataset comprises 1.6 million tweets labeled as positive or negative. The project involves several steps, including data preprocessing, stemming, and converting text data into numerical features using TF-IDF vectorization. A Logistic Regression model is then trained to classify tweets as positive or negative, achieving an accuracy of 77.8% on the test data. The model is saved using pickle for future predictions. This project illustrates a practical application of natural language processing (NLP) techniques and machine learning for sentiment analysis, making it possible to automatically gauge the sentiment of Twitter users' posts.
